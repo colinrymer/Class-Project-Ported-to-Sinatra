@@ -31,7 +31,7 @@ helpers do
       end
     end while check != true
     
-    return word 
+    return word.downcase 
   end
 end
 
