@@ -1,0 +1,1 @@
+Working on porting a class project written in php (no framework and little separation of concerns) to ruby & sinatra.
