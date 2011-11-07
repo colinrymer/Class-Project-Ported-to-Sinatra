@@ -1,12 +1,19 @@
-<script type="text/javascript" src="scripts/maze.js"></script>
+<script type="text/javascript" src="../maze.js"></script>
 <script type="text/javascript">
-      x = <?= $startX ?>;
-      y = <?= $startY ?>;
-      level = <%= @level %>;
-      winXleft = <?= $winXleft ?>;
-      winXright = <?= $winXright ?>;
-      winYtop = <?= $winYtop ?>;
-      winYbottom= <?= $winYbottom ?>;
+  x = <%= @level.startX %>;
+  y = <%= @level.startY %>;
+  level = <%= @level.levelNum %>;
+  winXleft = <%= @level.winXleft %>;
+  winXright = <%= @level.winXright %>;
+  winYtop = <%= @level.winYtop %>;
+  winYbottom= <%= @level.winYbottom %>;
+
+  $(document).ready(function(){
+    $("#menuLinkActivity1").addClass("active");
+
+    init();
+    window.addEventListener('keydown',doKeyDown,true);
+  });
 </script>
 <div class="row">
   <div id="mainContent" class="span14 offset1 columns">
@@ -14,7 +21,7 @@
         <h1>
         The Maze 
         <small>
-          Level <%= @level %>
+          Level <%= @level.levelNum%>
         </small>
       </h1>
     </div>

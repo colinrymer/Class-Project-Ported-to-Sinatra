@@ -15,7 +15,7 @@ MIN_WORD_SIZE = 4
 MAX_WORD_SIZE = 8
 
 helpers do
-  
+
   include Rack::Utils
 
   alias_method :h, :escape_html
@@ -34,7 +34,7 @@ helpers do
 
 end
 
-DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/user.db")
+DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/tftproj1.db")
 
 class User
   include DataMapper::Resource
@@ -50,14 +50,37 @@ class User
   property :admin, Integer
 end
 
+class Level
+  include DataMapper::Resource
+  property :id, Serial # change property name to levelNum before populating table
+  property :levelNum, Integer # remove before populating
+  property :startX, Integer
+  property :startY, Integer
+  property :winXleft, Integer
+  property :winXright, Integer
+  property :winYtop, Integer
+  property :winYbottom, Integer
+end
+
 DataMapper.finalize.auto_upgrade!
 
 get '/' do
   erb :home
 end
 
+#TODO The Levels table needs to be populated and the following code changed to use the Levels table.
 get '/maze/:level' do
-  @level = params[:level]
+  # @level = Level.get params[:level]
+
+  @level = Level.new
+  @level.levelNum = 1
+  @level.startX = 1
+  @level.startY = 266
+  @level.winXleft = 458
+  @level.winXright = 482
+  @level.winYtop = 105
+  @level.winYbottom = 144
+  
   erb ACTIVITY_1.to_sym
 end
 
@@ -66,11 +89,11 @@ get '/hangman/word/?' do
 end
 
 post '/user/:username' do
-  params[:username]
+  params[:username] #TODO create new user
 end
 
 put '/user/:username' do
-  "todo"
+  "todo" #TODO update user password
 end
 
 get '/:activity/?' do

@@ -44,6 +44,21 @@
       </form>
     </div>
   <% else %>
-   <!-- show user info -->
+   <div id="userInfo">
+      <h3><strong>username</strong></h3>
+      <div class="page-header">
+        <h4>Time spent on games:</h4>
+      </div>
+      <p><strong><%="#{ACTIVITY_1}: " %></strong><span id="activity1Time">activity 1 time</span></p>
+      <p><strong><%="#{ACTIVITY_2}: " %></strong><span id="activity2Time">activity 2 time</span></p>
+      <p><strong><%="#{ACTIVITY_3}: " %></strong><span id="activity3Time">activity 3 time</span></p>
+      <p><strong><%="#{ACTIVITY_4}: " %></strong><span id="activity4Time">activity 4 time</span></p>
+      <p><strong>Total Time: </strong><span id="activityTotalTime">Total Time</span></p>
+      <div class="page-header">
+        <h4>Logins:</h4>
+      </div>
+      <p><strong>Total Time Logged In: </strong><span id="totalTime">total time logged in</span></p>
+      <p><strong>Total Logins: </strong>number of logins</p>
+    </div>
   <% end %>
-</div>
+</div><!-- /sidebar -->
