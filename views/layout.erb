@@ -15,13 +15,22 @@
   <script type="text/javascript" src="/jquery.blockUI.js"></script>
   <script type="text/javascript" src="/plugins.js"></script>
   <script type="text/javascript" src="/application.js"></script>
+  <script>
+  $(document).ready(function(){
+    $("#menuLinkHome").addClass("active");
+    showWelcome();
+  });
+  </script>
+
 </head>
 <body>
   <%= erb :topNavBar %>
   <div id="content" class="container-fluid">
     <%= erb :sidebar %>
     <div class="content">
-      <% #erb :messageDiv %>
+      <div class="row" id="messageRow">
+        <div id="messageDiv" class="span12 offset1 columns" style="display:none;"></div>
+      </div><!-- /row -->
       <%= yield %>
     </div><!-- /content -->
     <div class="page-header footer"></div>

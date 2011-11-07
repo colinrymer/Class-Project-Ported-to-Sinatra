@@ -36,7 +36,7 @@ function clear() {
 function init() {
 	canvas = document.getElementById("canvas");
 	cursor = canvas.getContext("2d");
-	img.src = "img/maze/"+(level-1)+".gif";
+	img.src = "/img/maze/"+(level-1)+".gif";
 	return setInterval(draw, 10);
 }
 

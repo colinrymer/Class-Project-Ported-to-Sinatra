@@ -15,24 +15,23 @@ MIN_WORD_SIZE = 4
 MAX_WORD_SIZE = 8
 
 helpers do
+  
   include Rack::Utils
+
   alias_method :h, :escape_html
 
   def getWord
     f = File.open('words.txt').readlines
-
     check = false
 
     begin
       word = f[rand(f.length)]
-
-      if word.size >= MIN_WORD_SIZE && word.size <= MAX_WORD_SIZE
-        check = true
-      end
+      check = true if word.size >= MIN_WORD_SIZE && word.size <= MAX_WORD_SIZE
     end while check != true
-    
+
     return word.downcase 
   end
+
 end
 
 DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/user.db")
@@ -57,12 +56,9 @@ get '/' do
   erb :home
 end
 
-get '/:activity/?' do
-  if ACTIVITIES.include? (HTMLEntities.new.decode params[:activity])
-    erb params[:activity].to_sym
-  else
-    erb :'404'
-  end
+get '/maze/:level' do
+  @level = params[:level]
+  erb ACTIVITY_1.to_sym
 end
 
 get '/hangman/word/?' do
@@ -77,6 +73,17 @@ put '/user/:username' do
   "todo"
 end
 
+get '/:activity/?' do
+  if ACTIVITIES.include? (HTMLEntities.new.decode params[:activity])
+    if HTMLEntities.new.decode(params[:activity]) == ACTIVITY_1
+      redirect '/maze/1'
+    else
+      erb params[:activity].to_sym
+    end
+  else
+    erb :'404'
+  end
+end
 
 get '/404' do
   erb :'404'
