@@ -16,7 +16,7 @@ helpers do
   alias_method :h, :escape_html
 end
 
-DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/recall.db")
+DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/user.db")
 
 class User
   include DataMapper::Resource
