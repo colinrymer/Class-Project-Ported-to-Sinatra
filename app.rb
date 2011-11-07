@@ -11,9 +11,28 @@ ACTIVITY_4 = "Hangman"
 
 ACTIVITIES = [ACTIVITY_1, ACTIVITY_2, ACTIVITY_3, ACTIVITY_4]
 
+MIN_WORD_SIZE = 4
+MAX_WORD_SIZE = 8
+
 helpers do
   include Rack::Utils
   alias_method :h, :escape_html
+
+  def getWord
+    f = File.open('words.txt').readlines
+
+    check = false
+
+    begin
+      word = f[rand(f.length)]
+
+      if word.size >= MIN_WORD_SIZE && word.size <= MAX_WORD_SIZE
+        check = true
+      end
+    end while check != true
+    
+    return word 
+  end
 end
 
 DataMapper::setup(:default, "sqlite3://#{Dir.pwd}/user.db")
@@ -47,7 +66,7 @@ get '/:activity/?' do
 end
 
 get '/hangman/word/?' do
-  "word" #TODO Add random words from words.txt
+  getWord
 end
 
 post '/user/:username' do
