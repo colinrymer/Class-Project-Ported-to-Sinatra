@@ -1,0 +1,85 @@
+/****************************************
+ * --------     style.css      -------- *
+ * -------- Created: 09/19/11  -------- *
+ * -------- Modified: 09/19/11 -------- *
+ * --------    Colin Rymer     -------- *
+*****************************************/
+
+
+.footer {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#modalPasswordChange {
+	position: relative;
+	top: auto;
+	left: auto;
+	margin: 0 auto;
+	z-index: 1;
+}
+
+.topbar-wrapper {
+	z-index: 5;
+}
+
+div#messageRow {
+	height: 55px;
+}
+
+div#content
+{
+	padding-top: 80px;
+}
+
+.checkmark
+{
+	color: #57A957;
+	font-size: 25px;
+}
+
+.xmark
+{
+	color: #C43C35;
+	font-size: 25px;
+}
+
+.loginInput
+{
+	width: 165px;
+}
+
+#signInButton, #registerButton
+{
+	width: 85px;
+}
+
+#registerButton
+{
+	float:right;
+}
+
+#loginButtons, #cancelRegisterDiv, #passwordHelp
+{
+	width: 175px;
+}
+
+#cancelRegistration
+{
+	float:right; 
+	cursor:pointer;
+}
+
+#mainContent
+{
+	padding:20px;
+}
+
+.modal-header a {
+	cursor:pointer;
+}
+
+.errorMsg
+{
+	color:red;
+}

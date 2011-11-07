@@ -1,0 +1,208 @@
+[30-Aug-2011 10:06:16] PHP Parse error:  syntax error, unexpected ':' in /home/colinrym/public_html/4900/1/index.php on line 2
+[30-Aug-2011 10:44:32] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/colinrym/public_html/4900/1/index.php on line 4
+[30-Aug-2011 21:03:29] PHP Parse error:  syntax error, unexpected '<' in /home/colinrym/public_html/4900/1/index.php on line 23
+[30-Aug-2011 21:15:06] PHP Parse error:  syntax error, unexpected T_EXIT in /home/colinrym/public_html/4900/1/index.php on line 29
+[30-Aug-2011 21:15:13] PHP Parse error:  syntax error, unexpected T_EXIT in /home/colinrym/public_html/4900/1/index.php on line 29
+[30-Aug-2011 21:15:14] PHP Parse error:  syntax error, unexpected T_EXIT in /home/colinrym/public_html/4900/1/index.php on line 29
+[30-Aug-2011 21:15:18] PHP Parse error:  syntax error, unexpected T_EXIT in /home/colinrym/public_html/4900/1/index.php on line 29
+[30-Aug-2011 21:36:36] PHP Parse error:  syntax error, unexpected ',' in /home/colinrym/public_html/4900/1/functions.php on line 12
+[30-Aug-2011 21:37:33] PHP Fatal error:  Only variables can be passed by reference in /home/colinrym/public_html/4900/1/functions.php on line 12
+[30-Aug-2011 21:40:35] PHP Fatal error:  Only variables can be passed by reference in /home/colinrym/public_html/4900/1/functions.php on line 12
+[30-Aug-2011 21:40:59] PHP Parse error:  syntax error, unexpected '(' in /home/colinrym/public_html/4900/1/functions.php on line 12
+[31-Aug-2011 10:23:21] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/4900/1/ajax.php on line 40
+[01-Sep-2011 11:46:57] PHP Parse error:  syntax error, unexpected '{' in /home/colinrym/public_html/4900/1/ajax.php on line 42
+[01-Sep-2011 11:56:06] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/colinrym/public_html/4900/1/ajax.php on line 39
+[01-Sep-2011 12:01:23] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/4900/1/ajax.php on line 41
+[01-Sep-2011 12:01:28] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/4900/1/ajax.php on line 41
+[01-Sep-2011 17:37:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/colinrym/public_html/4900/1/ajax.php on line 49
+[01-Sep-2011 17:44:02] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/colinrym/public_html/4900/1/functions.php on line 11
+[01-Sep-2011 17:44:39] PHP Fatal error:  Call to undefined function getNavDropdown() in /home/colinrym/public_html/4900/1/index.php on line 163
+[02-Sep-2011 16:26:49] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/4900/1/functions.php on line 12
+[02-Sep-2011 16:27:00] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/4900/1/functions.php on line 12
+[02-Sep-2011 16:36:23] PHP Parse error:  syntax error, unexpected T_STRING in /home/colinrym/public_html/4900/1/functions.php on line 73
+[02-Sep-2011 16:37:30] PHP Fatal error:  Call to undefined function getTopNavBar() in /home/colinrym/public_html/4900/1/admin.php on line 19
+[02-Sep-2011 17:05:54] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/colinrym/public_html/4900/1/ajax.php on line 53
+[02-Sep-2011 17:06:01] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/colinrym/public_html/4900/1/ajax.php on line 53
+[02-Sep-2011 17:06:05] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/colinrym/public_html/4900/1/ajax.php on line 53
+[02-Sep-2011 17:06:13] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/colinrym/public_html/4900/1/ajax.php on line 53
+[02-Sep-2011 17:07:38] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/4900/1/ajax.php on line 53
+[02-Sep-2011 18:11:34] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/4900/1/admin.php on line 65
+[02-Sep-2011 18:11:44] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/4900/1/admin.php on line 65
+[08-Sep-2011 10:33:41] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 105
+[08-Sep-2011 10:33:43] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 105
+[08-Sep-2011 10:33:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 105
+[08-Sep-2011 10:49:14] PHP Fatal error:  Call to undefined function getMessageDiv() in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 34
+[08-Sep-2011 10:51:06] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 2
+[08-Sep-2011 10:55:21] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/whackamole.php on line 3
+[08-Sep-2011 11:06:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 163
+[08-Sep-2011 11:06:29] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 163
+[08-Sep-2011 11:11:28] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 174
+[08-Sep-2011 11:11:45] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 174
+[08-Sep-2011 11:22:14] PHP Parse error:  syntax error, unexpected T_INC in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 173
+[08-Sep-2011 11:26:53] PHP Parse error:  syntax error, unexpected '<' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 163
+[08-Sep-2011 11:27:36] PHP Parse error:  syntax error, unexpected '<' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 163
+[08-Sep-2011 12:46:01] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 7
+[08-Sep-2011 14:35:00] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 146
+[08-Sep-2011 14:38:00] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 149
+[08-Sep-2011 14:38:02] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 149
+[10-Sep-2011 14:45:59] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 11
+[10-Sep-2011 14:58:50] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 20
+[10-Sep-2011 14:58:59] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 20
+[10-Sep-2011 15:30:00] PHP Parse error:  syntax error, unexpected '{' in /home/colinrym/public_html/teamfourtech.com/1/logout.php on line 5
+[10-Sep-2011 15:35:50] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/logout.php on line 9
+[10-Sep-2011 16:11:24] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 158
+[10-Sep-2011 16:47:07] PHP Parse error:  syntax error, unexpected T_BREAK in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 100
+[12-Sep-2011 23:37:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/colinrym/public_html/teamfourtech.com/1/hangmanAjax.php on line 23
+[12-Sep-2011 23:38:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/colinrym/public_html/teamfourtech.com/1/hangmanAjax.php on line 23
+[12-Sep-2011 23:38:25] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ';' in /home/colinrym/public_html/teamfourtech.com/1/hangmanAjax.php on line 27
+[12-Sep-2011 23:42:20] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/hangmanAjax.php on line 27
+[15-Sep-2011 10:38:52] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 110
+[19-Sep-2011 13:20:08] PHP Fatal error:  Call to undefined function getModalLogin() in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 13:21:23] PHP Fatal error:  Call to undefined function getModalLogin() in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 13:21:27] PHP Fatal error:  Call to undefined function getModalLogin() in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 13:21:33] PHP Fatal error:  Call to undefined function getModalLogin() in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 13:26:58] PHP Fatal error:  Call to undefined function stopTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 115
+[19-Sep-2011 13:26:58] PHP Fatal error:  Call to undefined function getModalLogin() in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 13:31:26] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 23
+[19-Sep-2011 13:36:16] PHP Fatal error:  Call to undefined function getChangePassword() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 28
+[19-Sep-2011 14:33:17] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:33:21] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:34:00] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:37:59] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:38:05] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 243
+[19-Sep-2011 14:38:08] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 243
+[19-Sep-2011 14:38:11] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 243
+[19-Sep-2011 14:38:32] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:38:34] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:38:36] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:38:41] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/maze.php on line 245
+[19-Sep-2011 14:39:18] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:39:32] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:39:57] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:39:59] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:40:01] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:40:26] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:40:29] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:40:34] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:07] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:09] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:10] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:12] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:20] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:33] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:41] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:43] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:41:44] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 14:42:59] PHP Warning:  Unterminated comment starting line 2 in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 2
+[19-Sep-2011 14:42:59] PHP Fatal error:  Call to undefined function getBlocker() in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 32
+[19-Sep-2011 15:15:11] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/colinrym/public_html/teamfourtech.com/1/Activity 1.php on line 28
+[19-Sep-2011 16:02:58] PHP Parse error:  syntax error, unexpected $end in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 222
+[19-Sep-2011 19:20:05] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 35
+[19-Sep-2011 19:20:08] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 35
+[19-Sep-2011 19:20:11] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 35
+[19-Sep-2011 19:23:26] PHP Fatal error:  Call to undefined function getPageBodyTop() in /home/colinrym/public_html/teamfourtech.com/1/index.php on line 34
+[19-Sep-2011 20:58:29] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 123
+[19-Sep-2011 20:58:30] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 123
+[19-Sep-2011 20:58:35] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 123
+[19-Sep-2011 21:21:23] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 263
+[19-Sep-2011 21:21:43] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 263
+[19-Sep-2011 21:22:15] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 263
+[19-Sep-2011 21:22:24] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 263
+[19-Sep-2011 21:58:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:58:58] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:58:59] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:59:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:59:01] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:59:02] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:59:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:59:04] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:59:05] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 21:59:05] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 200
+[19-Sep-2011 22:04:09] PHP Parse error:  syntax error, unexpected '}' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 273
+[19-Sep-2011 22:08:34] PHP Fatal error:  Call to undefined function updateTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 131
+[19-Sep-2011 22:33:21] PHP Fatal error:  Call to undefined function updateTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 131
+[19-Sep-2011 23:00:32] PHP Fatal error:  Call to undefined function updateTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 131
+[19-Sep-2011 23:32:24] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:24] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:31] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:32] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:39] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:39] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:47] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:47] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:54] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:32:54] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:02] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:02] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:09] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:09] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:17] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:17] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:24] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:24] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:29] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:33:32] PHP Parse error:  syntax error, unexpected ';' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 280
+[19-Sep-2011 23:55:48] PHP Fatal error:  Call to undefined function updateTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 129
+[20-Sep-2011 00:57:54] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:57:55] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:57:56] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:02] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:03] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:03] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:09] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:11] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:11] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:17] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:18] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:18] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:24] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:25] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:26] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:32] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:33] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:33] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:39] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:40] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:41] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:47] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:48] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:48] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:54] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:55] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:58:56] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:02] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:03] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:03] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:09] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:10] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:11] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:17] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:18] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:18] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:24] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:25] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:26] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:32] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:33] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:33] PHP Parse error:  syntax error, unexpected '.' in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 212
+[20-Sep-2011 00:59:39] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:40] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:41] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:47] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:48] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 00:59:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 01:00:02] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 01:00:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 214
+[20-Sep-2011 01:00:03] PHP Fatal error:  Call to undefined function updateTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 129
+[20-Sep-2011 08:45:41] PHP Warning:  Unterminated comment starting line 2 in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 2
+[20-Sep-2011 08:45:44] PHP Warning:  Unterminated comment starting line 2 in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 2
+[20-Sep-2011 08:45:44] PHP Fatal error:  Call to undefined function updateTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 129
+[20-Sep-2011 08:45:52] PHP Warning:  Unterminated comment starting line 2 in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 2
+[20-Sep-2011 08:45:52] PHP Fatal error:  Call to undefined function updateTime() in /home/colinrym/public_html/teamfourtech.com/1/ajax.php on line 129
+[20-Sep-2011 08:45:56] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 51
+[20-Sep-2011 08:45:59] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 51
+[20-Sep-2011 08:46:04] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 51
+[20-Sep-2011 08:51:43] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/colinrym/public_html/teamfourtech.com/1/functions.php on line 223

@@ -1,0 +1,19 @@
+.hangmanImage
+{
+	width: 480px;
+}
+
+.badGuess
+{
+	color: red;
+}
+
+#hangmanImageDiv
+{
+	margin-bottom: 20px;
+}
+
+#hangmanLetters, #hangmanBadGuesses
+{
+	height: 40px;
+}

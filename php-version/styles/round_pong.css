@@ -1,0 +1,129 @@
+div#rp_content
+{
+	position: relative;
+	width: 800px;
+}
+
+div#rp_content div.rp_container
+{
+	float: left;
+	position: relative;
+	width: 600px;
+	height: 600px;
+	/*margin-bottom: 4px;*/
+}
+
+div#rp_content img.rp_table
+{
+	width: 600px;
+	height: 600px;
+}
+
+div#rp_content img.rp_ball
+{
+	position: absolute;
+	width: 32px;
+	height: 32px;
+}
+
+div#rp_content img.rp_paddle
+{
+	position: absolute;
+	width: 108px;
+	height: 18px;
+}
+
+div#rp_content div.rp_pane
+{
+	float: left;
+	padding: 8px;
+	width: 184px;
+}
+	
+div#rp_content div.rp_pane p.rp_heading
+{
+	border-bottom: 1px solid #cccccc;
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+
+div#rp_content div.rp_msg
+{
+	text-align: center;
+	display: none;
+	padding: 8px;
+	border: 1px solid #cccccc;
+}
+
+div#rp_content div.rp_msg p.text
+{
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+
+div#rp_content div.rp_msg p.more
+{
+	color: #000000;
+}
+
+div#rp_content p.rp_score_label
+{
+	font-family: "Courier New";
+	font-size: 2em;
+	margin: 16px 0 16px 0;
+}
+
+div#rp_content fieldset
+{
+	border: 1px solid #cccccc;
+	margin: 16px 0 16px 0;
+	padding: 4px;
+}
+
+div#rp_content fieldset label
+{
+	width: auto; /* bootstrap fix */
+	padding: 4px;
+}
+
+div#rp_content legend
+{
+	padding: 0 8px 0 8px;
+	text-align: left; /* chrome fix */
+	margin-left: 0; /* bootstrap fix */
+}
+
+div#rp_content div.rp_popup
+{
+	position: absolute;
+	top: 200px;
+	padding: 32px;
+	margin-left: -32px;
+	border: 1px solid #000000;
+	color: #000000;
+	background-color: rgba(255, 255, 255, 0.8);
+	width: 600px;
+}
+
+div#rp_content p.rp_clickable
+{
+	cursor: pointer;
+	color: #336699;
+	text-decoration: underline;
+}
+
+div#rp_content p#rp_show_instructions
+{
+	position: absolute;
+	top: 580px;
+}
+
+div#rp_content input#rp_new_game
+{
+	width: 100%;
+}
+
+div#rp_content hr
+{
+	border-bottom: 1px solid #999999;
+}

@@ -1,0 +1,49 @@
+<div class="sidebar">
+  <% if true  #should check for logged in%>
+    <div id="loginForm">
+      <form class="form-stacked" name="formLogin">
+        <fieldset id="formFieldset">
+          <div class="clearfix">
+            <label for="userNameField">Username: </label>
+            <div>
+              <input class="loginInput" name="userNameField" id="userNameField" type="text"/>
+              <span id="usernameMark"></span>
+            </div>
+          </div><!-- /clearfix -->
+          <div class="clearfix" id="passwordDiv">
+            <label for="passwordField">Password: </label>
+            <div>
+              <input class="loginInput" name="passwordField" id="passwordField" type="password" onkeypress="watchKeyPress(event, this.id)"/>
+              <span id="passwordMark"></span>
+            </div>
+          </div><!-- /clearfix -->
+          <div class="clearfix" id="confirmPasswordDiv" style="display:none;">
+            <label for="confirmPasswordField">Confirm Password: </label>
+            <div>
+              <input class="loginInput" name="confirmPasswordField" id="confirmPasswordField" type="password" onkeypress="watchKeyPress(event, this.id)"/>
+              <span id="confirmMark"></span>
+            </div>
+            <span id="passwordHelp" class="help-block"> 
+              <strong>Note:</strong> Passwords must be at least 4 characters long.
+            </span>
+          </div><!-- /clearfix -->
+          <div id="loginButtons"> 
+            <input id="signInButton" type="button" class="btn small primary" value="Sign In" onclick="logUserIn(event)" />
+            <input  id="registerButton" type="button" class="btn small" value="Register" onclick="registerUser(event)"/>
+          </div>
+          <div class="clearfix" id="cancelRegisterDiv" style="display:none;">
+            <br />
+            <a id="cancelRegistration" onclick="cancelRegistration()">Cancel Registration</a>
+          </div><!-- /clearfix -->
+          <div class="clearfix" id="loginHelpDiv">
+            <span id="loginHelp" class="help-block"> 
+              <strong>Note:</strong> Users pre-enrolled can login using their UTC ID with all uppercase letters as their username and their first name with the first letter capitalized as their password.
+            </span>
+          </div><!-- /clearfix -->
+        </fieldset>
+      </form>
+    </div>
+  <% else %>
+   <!-- show user info -->
+  <% end %>
+</div>

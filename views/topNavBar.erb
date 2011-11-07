@@ -1,0 +1,18 @@
+<div id="topNav" class="topbar-wrapper">
+    <div id="topbar" class="topbar">
+      <div class="fill">
+        <div class="container" id="navbar">
+          <h3><a href="/">T4T Assignment 1</a></h3>
+          <ul id="menuLinks">
+            <li id="menuLinkHome"><a href="/">Home</a></li>
+            <li id="menuLinkActivity1"><a href="/<%= ACTIVITY_1 %>"><%= ACTIVITY_1 %></a></li>
+            <li id="menuLinkActivity2"><a href="/<%= ACTIVITY_2 %>"><%= ACTIVITY_2 %></a></li>
+            <li id="menuLinkActivity3"><a href="/<%= ACTIVITY_3 %>"><%= ACTIVITY_3 %></a></li>
+            <li id="menuLinkActivity4"><a href="/<%= ACTIVITY_4 %>"><%= ACTIVITY_4 %></a></li>
+            <% #if logged in >> show admin link %>
+          </ul>
+          <% #if logged in >> erb :navDropdown %>
+        </div>
+      </div><!-- /fill -->
+    </div><!-- /topbar -->
+  </div><!-- /topbar-wrapper -->

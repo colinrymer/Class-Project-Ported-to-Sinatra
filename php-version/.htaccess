@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+#RewriteRule ^TheMaze/Level/(0-9)/?$ Activity 1.php?level=$1 [L]
